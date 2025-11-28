@@ -19,7 +19,7 @@ Passionate about problem-solving, automation, and continuous learning.
 
 ## 🔹 **How to Reach Me**
 - 📧 **Email:** *tshree2006@gmail.com*  
-- 💼 **LinkedIn:** *[add your LinkedIn link](https://www.linkedin.com/in/thejashree-b-293333293/)*  
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/thejashree-b-293333293/*  
 - 🌐 GitHub Profile: https://github.com/Thejashree0308
 
 ---
