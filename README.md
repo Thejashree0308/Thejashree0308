@@ -8,16 +8,6 @@ I enjoy solving problems, learning new technologies, and working on real-world i
 
 ---
 
-## 🔭 Currently Working On  
-- 📚 Improving my problem-solving skills  
-- 🧠 Strengthening DS & Algorithms fundamentals  
-- 🎯 Learning backend best-practices  
-- 🧪 Exploring AI/ML and NLP concepts  
-- ☁️ Understanding system design & APIs  
-- 📈 Practising Power BI data analysis
-
----
-
 ## 🛠️ Tech Stacks I Use  
 **Languages:** Python · JavaScript · SQL  
 **Backend:** FastAPI · Flask · Node.js  
