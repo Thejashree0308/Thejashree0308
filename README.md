@@ -1,51 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm **Thejashree**
 
-## About Me  
-I’m a **Software & Data Analyst** with a passion for turning raw data into meaningful insights and building clean, maintainable software.  
-I enjoy problem-solving, automation, and designing systems that scale.
+## 🔹 **Who Am I?**
+I’m a **Student** who loves building efficient systems, working with data, and creating solutions that make an actual impact.  
+Passionate about problem-solving, automation, and continuous learning.
 
-## 🛠️ What I Do  
+## 🔹 **Currently Working On**
+- Developing projects that combine **software engineering** with **data-driven insights**  
+- Improving my skills in **backend development**, **data processing**, and **system design**  
+- Exploring new tools and modern frameworks to sharpen my technical abilities
 
-- **Backend Development** — building APIs, services, and automation tools  
-- **Data Engineering & Analysis** — working with data pipelines, databases, and data processing  
-- **Full-Stack Projects** — combining frontend, backend and data workflows when needed  
-- **Continuous Learning** — always exploring new frameworks, techniques and best practices  
+## 🔹 **Tools & Technologies I Use**
+- **Languages:** Python, JavaScript / TypeScript, SQL  
+- **Backend:** Node.js, Express, Django, Flask  
+- **Data:** Pandas, NumPy, PostgreSQL, MongoDB  
+- **DevOps / Cloud:** Docker, Git, GitHub Actions  
+- **Front-end:** React, HTML, CSS  
+- **Other:** REST APIs, automation scripts, data pipelines
 
-## 💡 Tech & Tools  
-
-| Category | Tools / Languages |
-|---------|------------------|
-| **Languages** | Python, JavaScript / TypeScript, SQL |
-| **Backend / APIs** | Node.js, Express, Django / Flask |
-| **Data & Databases** | PostgreSQL, MongoDB, Pandas, SQLAlchemy |
-| **DevOps / Cloud** | Docker, Git, GitHub Actions, Cloud (AWS / other) |
-| **Front-end / Web** | React / Next.js, HTML, CSS / SCSS |
-| **Others** | REST APIs, data pipelines, automation scripts, data analysis |
-
-## 🚀 Goals  
-
-- Build scalable, data-driven applications that deliver real value  
-- Contribute to open-source projects and collaborate with like-minded developers  
-- Keep improving my skills in software architecture, data engineering and clean code practices  
-
-## 📬 Get In Touch  
-
-If you’d like to collaborate, discuss data-driven projects or just want to say hello — feel free to connect with me here on GitHub or drop a message.
+## 🔹 **How to Reach Me**
+- 📧 **Email:** *tshree2006@gmail.com*  
+- 💼 **LinkedIn:** *[add your LinkedIn link](https://www.linkedin.com/in/thejashree-b-293333293/)*  
+- 🌐 GitHub Profile: https://github.com/Thejashree0308
 
 ---
 
-*“code. analyse. build. repeat.”*  
-<!--
-**Thejashree0308/Thejashree0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *Always building. Always learning.*  
