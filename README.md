@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm Thejashree B!
+#  Hi there, I'm Thejashree B!
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 I'm **Thejashree**, a developer who loves building software, exploring AI/ML, and creating clean, functional applications.  
 I enjoy solving problems, learning new technologies, and working on real-world ideas.
 
 ---
 
-## 🛠️ Tech Stacks I Use  
+##  Tech Stacks I Use  
 **Languages:** Python · JavaScript · SQL  
 **Backend:** FastAPI · Flask · Node.js  
 **Frontend:** React · HTML · CSS · TailwindCSS  
@@ -18,21 +18,21 @@ I enjoy solving problems, learning new technologies, and working on real-world i
 
 ---
 
-## 📬 How to Reach Me  
-- 📧 Email: tshree2006@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/thejashree-b-293333293  
-- 🐙 GitHub: https://github.com/Thejashree0308  
+##  How to Reach Me  
+-  Email: tshree2006@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/thejashree-b-293333293  
+-  GitHub: https://github.com/Thejashree0308  
 
 ---
 
-## 📊 GitHub Stats & Languages
+##  GitHub Stats & Languages
 
 [![Thejashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thejashree0308&show_icons=true&theme=dracula)](https://github.com/Thejashree0308)  
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejashree0308&layout=compact&theme=dracula)](https://github.com/Thejashree0308)
 
 ---
 
-## 👀 Profile Views  
+##  Profile Views  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Thejashree0308&color=brightgreen)
 
 ---
