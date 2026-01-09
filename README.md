@@ -7,7 +7,7 @@ I'm **Thejashree**, a developer who enjoys building software, exploring AI/ML, a
 I like solving problems, learning new technologies, and working on real-world ideas.
 
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350" align="below"/>
+<img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhpcGl1NmpiODkwdTgyeTNtbnVkeGdwYmZ6azV0dnZzeTNpOGIxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1xoquRC3tceEQ9ydOu/giphy.gif)" width="350" align="below"/>
 ---
 
 ## Tech Stacks I Use
