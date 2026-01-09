@@ -37,4 +37,4 @@ I enjoy solving problems, learning new technologies, and working on real-world i
 
 ---
 
-✨ Always building. Always learning.  
+Always building. Always learning! 
