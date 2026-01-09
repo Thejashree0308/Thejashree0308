@@ -1,7 +1,8 @@
 # Hi there, I'm Thejashree B!
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" align="right"/>
+
 
 ---
 
