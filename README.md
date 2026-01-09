@@ -5,6 +5,8 @@
 ## About Me
 I'm **Thejashree**, a developer who enjoys building software, exploring AI/ML, and creating clean, functional applications.  
 I like solving problems, learning new technologies, and working on real-world ideas.
+
+
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350" align="below"/>
 ---
 
