@@ -27,9 +27,11 @@ I enjoy solving problems, learning new technologies, and working on real-world i
 
 ##  GitHub Stats & Languages
 
-[![Thejashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thejashree0308&show_icons=true&theme=dracula)](https://github.com/Thejashree0308)  
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejashree0308&layout=compact&theme=dracula)](https://github.com/Thejashree0308)
+### Thejashree's GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejashree&show_icons=true&theme=default)
 
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejashree&layout=compact)
 ---
 
 ##  Profile Views  
