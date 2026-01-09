@@ -1,16 +1,11 @@
 # Hi there, I'm Thejashree B!
 
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350" align="below"/>
-
-
-
 ---
 
 ## About Me
 I'm **Thejashree**, a developer who enjoys building software, exploring AI/ML, and creating clean, functional applications.  
 I like solving problems, learning new technologies, and working on real-world ideas.
-
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350" align="below"/>
 ---
 
 ## Tech Stacks I Use
@@ -39,18 +34,6 @@ Git · GitHub · Docker · Power BI · VS Code
 - Email: tshree2006@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/thejashree-b-293333293  
 - GitHub: https://github.com/Thejashree0308  
-
----
-
-## GitHub Stats & Languages
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thejashree0308&show_icons=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejashree0308&layout=compact" height="170"/>
-
----
-
-## Profile Views
-<img src="https://komarev.com/ghpvc/?username=Thejashree0308&color=brightgreen"/>
 
 ---
 
