@@ -65,9 +65,9 @@ Interactive Power BI dashboard analyzing sales, customer behavior, and product p
 ## GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejashree0308&show_icons=true&theme=github_dark&cache_seconds=30"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejashree0308&layout=compact&theme=github_dark"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=thejashree0308&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejashree0308&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>>
 
 ---
 
