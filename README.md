@@ -37,39 +37,36 @@ I focus on developing real-world solutions that combine predictive modeling, aut
 
 ## Featured Projects
 
-### Demand Forecasting System  
-Built a machine learning-based forecasting system to predict demand trends using historical data.  
-Focused on improving prediction accuracy through preprocessing and model optimization.  
+### [Demand Forecasting System](https://github.com/thejashree0308/demand-forecasting-system)
+Machine learning-based system to predict demand trends using historical data and improve forecasting accuracy.
 
 ---
 
-### Auto Captioning System  
-Developed an AI-based system that automatically generates captions from input content using NLP techniques.  
+### [Auto Captioning System](https://github.com/thejashree0308/auto-captioning)
+AI-based system that automatically generates captions using natural language processing techniques.
 
 ---
 
-### Therapist Chatbot  
-Designed a conversational AI chatbot that provides supportive and context-aware responses using natural language processing.  
+### [Therapist Chatbot](https://github.com/thejashree0308/therapist-chatbot)
+Conversational AI chatbot that provides supportive and context-aware responses.
 
 ---
 
-### YouTube AI Automation using n8n  
-https://github.com/thejashree0308/AI-Youtube-Automation-n8n  
-Built an automated workflow using n8n to generate and manage YouTube content with AI integration.  
+### [YouTube AI Automation using n8n](https://github.com/thejashree0308/AI-Youtube-Automation-n8n)
+Automated workflow using n8n to generate and manage YouTube content with AI integration.
 
 ---
 
-### QuickBite Sales Analysis Dashboard (Power BI)  
-Developed an interactive Power BI dashboard to analyze sales, customer behavior, and product performance.  
-Provided insights for business decision-making through data visualization and KPI tracking.  
+### [QuickBite Sales Analysis Dashboard (Power BI)](https://github.com/thejashree0308/quickbite-powerbi-dashboard)
+Interactive Power BI dashboard analyzing sales, customer behavior, and product performance.
 
 ---
 
 ## GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejashree0308&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejashree0308&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thejashree0308&show_icons=true&theme=github_dark&cache_seconds=30"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejashree0308&layout=compact&theme=github_dark"/>
 </p>
 
 ---
