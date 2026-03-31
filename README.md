@@ -67,6 +67,7 @@ Interactive Power BI dashboard analyzing sales, customer behavior, and product p
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=thejashree0308&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ## Current Focus
