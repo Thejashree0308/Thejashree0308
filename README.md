@@ -1,45 +1,79 @@
-# Hi there, I'm Thejashree B!
-
----
-
-## About Me
-I'm **Thejashree**, a developer who enjoys building software, exploring AI/ML, and creating clean, functional applications.  
-I like solving problems, learning new technologies, and working on real-world ideas.
-
+<h1 align="center">Thejashree B</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRsa2F2ejQzZzBnNXFvM3RuNndsbTlwem5hdjI5MXI0MjZwaW51YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAnpMSHcurJVS/giphy.gif" width="350" />
+  M.Sc. Data Science Student | AI & Machine Learning Enthusiast
 </p>
 
 ---
 
-## Tech Stacks I Use
+## About Me
 
-**Languages**  
-Python · JavaScript · SQL  
-
-**Backend**  
-FastAPI · Flask · Node.js  
-
-**Frontend**  
-React · HTML · CSS · TailwindCSS  
-
-**AI / ML**  
-scikit-learn · PyTorch · NLP · Jupyter Notebook  
-
-**Databases**  
-PostgreSQL · SQLite · MongoDB  
-
-**Tools**  
-Git · GitHub · Docker · Power BI · VS Code  
+I am a Data Science student passionate about building intelligent systems using machine learning and AI.  
+I focus on developing real-world applications that combine data analysis, prediction models, and user-friendly interfaces.
 
 ---
 
-## How to Reach Me
-- Email: tshree2006@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/thejashree-b-293333293  
-- GitHub: https://github.com/Thejashree0308  
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-Always building. Always learning.
+## Projects
+
+### AI Text Detection System
+Machine learning-based system to classify whether text is AI-generated or human-written.  
+Includes feature extraction, model prediction, and explanation generation.
+
+### No Show Prediction Model
+Predicts whether a patient will miss an appointment using classification models and data preprocessing techniques.
+
+### Smart Digital Bus Pass System
+A web-based system for applying, renewing, and verifying digital bus passes with unique ID validation.
+
+### AI Screenshot Text Analyzer
+Analyzes uploaded screenshots or documents to detect AI-generated text and identify tone.
+
+---
+
+## Key Skills
+
+- Machine Learning Model Building  
+- Feature Engineering  
+- Data Analysis & Visualization  
+- Backend Development with FastAPI  
+- Model Evaluation and Optimization  
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thejashree0308&show_icons=true&theme=default"/>
+</p>
+
+---
+
+## Current Focus
+
+- Improving model accuracy and explainability  
+- Building full-stack AI applications  
+- Exploring deep learning techniques  
+
+---
+
+## Contact
+
+GitHub: https://github.com/thejashree0308  
+LinkedIn: https://www.linkedin.com/in/thejashree-b-293333293/
