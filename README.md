@@ -1,15 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thejashree%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=M.Sc.%20Data%20Science%20%7C%20GIS%20Data%20Analyst%20%7C%20AI%20and%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=220&section=header&text=Thejashree%20B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GIS%20Data%20Analyst%20%7C%20Data%20Science%20Student%20%7C%20AI%20Builder&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=GIS+Data+Analyst+at+Red+Leaf+Technology;M.Sc.+Data+Science+Student;Building+AI,+GIS+and+Analytics+Solutions;Time+Series+Forecasting+%7C+Vision-Language+Models"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E6A4FF&center=true&vCenter=true&width=900&lines=GIS+Data+Analyst+at+Red+Leaf+Technology;M.Sc+Data+Science+Student;Building+AI+%2B+GIS+Solutions;Time+Series+Forecasting+%7C+Computer+Vision+%7C+Spatial+Analytics"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=thejashree0308&style=flat-square&color=bb86fc"/>
 </p>
 
 ---
@@ -24,75 +22,76 @@ class Thejashree:
     def __init__(self):
         self.name = "Thejashree B"
         self.location = "Tamil Nadu, India"
-
-        self.role = [
-            "GIS Data Analyst",
-            "Data Science Student",
-            "AI Enthusiast"
-        ]
-
+        self.role = "GIS Data Analyst @ Red Leaf Technology"
+        self.degree = "M.Sc Data Science"
+        
         self.stack = [
             "Python",
             "SQL",
             "JavaScript",
             "Power BI",
             "PyTorch",
-            "GIS"
+            "GIS",
+            "Machine Learning",
+            "Streamlit"
         ]
 
-        self.currentlyLearning = [
+        self.currently_learning = [
             "ArcGIS Pro",
-            "Spatial Analytics",
             "Remote Sensing",
+            "Spatial Analysis",
             "Advanced Machine Learning",
-            "Deep Learning"
-        ]
-
-        self.interests = [
-            "Time Series Forecasting",
-            "Vision Language Models",
-            "Predictive Analytics",
-            "Geospatial Intelligence"
+            "GeoAI"
         ]
 
     def motto(self):
-        return "Transforming data into decisions."
+        return "Transforming data into decisions using AI, GIS and Analytics"
+
+    def fun_fact(self):
+        return "I enjoy building projects that combine AI, forecasting and geospatial intelligence."
 ```
 
 ---
 
-## Technology Stack
+## Technologies
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-6366F1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-EC4899?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-F472B6?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-A855F7?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
 ### Frameworks & Libraries
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Pandas-8B5CF6?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-6366F1?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EC4899?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-A855F7?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-F472B6?style=flat-square&logo=flask&logoColor=white"/>
+</p>
 
-### Databases
+### GIS, Data & Analytics
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/ArcGIS%20Pro-8B5CF6?style=flat-square&logo=esri&logoColor=white"/>
+<img src="https://img.shields.io/badge/QGIS-6366F1?style=flat-square&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-EC4899?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-A855F7?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-### Analytics & GIS
+### Databases & Tools
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square\&logo=esri\&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square\&logo=microsoft-excel\&logoColor=white)
-
-### Tools
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-8B5CF6?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-6366F1?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-EC4899?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-A855F7?style=flat-square&logo=canva&logoColor=white"/>
+</p>
 
 ---
 
@@ -100,12 +99,12 @@ class Thejashree:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/thejashree0308">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejashree0308&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=E6A4FF&icon_color=C084FC&text_color=F5F5F5&border_radius=15"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/thejashree0308">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejashree0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E6A4FF&text_color=F5F5F5&langs_count=8&border_radius=15"/>
 </a>
 
 </div>
@@ -115,7 +114,7 @@ class Thejashree:
 ## Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=thejashree0308&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=E6A4FF&fire=C084FC&currStreakLabel=E6A4FF&sideLabels=A78BFA&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0D1117&border_radius=15"/>
 </p>
 
 ---
@@ -123,117 +122,132 @@ class Thejashree:
 ## Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thejashree0308&theme=tokyo-night&bg_color=0d1117&color=E6A4FF&line=C084FC&point=A78BFA&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## Trophy Wall
+## Trophy Collection
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thejashree0308&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
 </p>
 
 ---
 
-## Professional Journey
+## Interactive Animation
 
-<details>
-<summary><b>Red Leaf Technology | GIS Data Analyst | June 2026 - Present</b></summary>
-
-> ArcGIS Pro • GIS Analysis • Spatial Data Processing • Geodatabases • Mapping
-
-* Working on GIS data creation, editing and spatial analysis workflows.
-* Developing geospatial datasets using ArcGIS Pro.
-* Performing feature class management, topology validation and map production.
-* Supporting GIS-based decision making through spatial insights and visualization.
-
-</details>
-
-<details>
-<summary><b>Student Development Cell | Technical Lead | May 2025 - Present</b></summary>
-
-> Web Development • APIs • Event Technology
-
-* Developed and maintained a quiz web application.
-* Integrated third-party APIs for student engagement activities.
-* Supported technical infrastructure for club events.
-* Led digital workflow automation initiatives.
-
-</details>
-
-<details>
-<summary><b>Photography Club | Design Lead | May 2025 - Sep 2025</b></summary>
-
-> Canva • Creative Design • Branding
-
-* Designed event posters and promotional campaigns.
-* Created branding assets for student events.
-* Increased visibility through engaging visual content.
-
-</details>
+<p align="center">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="700"/>
+</p>
 
 ---
 
 ## Featured Projects
 
-| Project                                  | Stack                                                    | Highlights                                                                                                                                    |
-| ---------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Retail Demand Forecasting System         | Python, Streamlit, Prophet, ARIMA, XGBoost, Scikit-Learn | Time-series forecasting platform with automatic model selection, EOQ optimization, safety stock calculation and reorder point recommendations |
-| QuickBite Business Performance Dashboard | Power BI, DAX, Power Query                               | Built 8+ KPIs and 10+ interactive visualizations for sales, delivery and customer analytics                                                   |
-| Auto Image Captioning System             | FastAPI, PyTorch, Hugging Face, HTML, CSS, JavaScript    | Vision-language application using ViT + GPT-2 architecture capable of generating captions from uploaded images                                |
+<div align="center">
+
+| Project                                  | Stack                                      | Highlights                                                                                                     |
+| ---------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Retail Demand Forecasting System         | Python, Streamlit, Prophet, ARIMA, XGBoost | Automated forecasting pipeline, inventory optimization, EOQ, safety stock, model selection using MAE/RMSE/MAPE |
+| QuickBite Business Performance Dashboard | Power BI, DAX, Power Query                 | 8+ KPIs, 10+ interactive visuals, sales analytics, customer insights                                           |
+| Auto Image Captioning System             | FastAPI, PyTorch, Hugging Face, JavaScript | Vision-Language model using ViT + GPT-2, REST API deployment, multi-image processing                           |
+
+</div>
 
 ---
 
 ## Achievements
 
-| Achievement                 | Details                                                                 |
-| --------------------------- | ----------------------------------------------------------------------- |
-| StartupTN 48-Hour Hackathon | Special Mention — Top 27 out of 200+ Teams                              |
-| BinaryXForge                | Runner-Up Position                                                      |
-| Elements of AI              | Certification by University of Helsinki and MinnaLearn                  |
-| Deloitte Australia          | Data Analytics Job Simulation                                           |
-| HackerRank                  | Python (Basic) and SQL (Basic) Certifications                           |
-| TCS ESG Program             | ESG Job Simulation                                                      |
-| Research Publication        | Published in Grenze International Journal of Engineering and Technology |
+<div align="center">
+
+| Achievement                       | Details                                                |
+| --------------------------------- | ------------------------------------------------------ |
+| StartupTN 48-Hour Hackathon       | Special Mention among Top 27 teams out of 200+ teams   |
+| BinaryXForge                      | Runner-Up Position                                     |
+| Elements of AI                    | Certification from MinnaLearn & University of Helsinki |
+| Deloitte Australia Data Analytics | Virtual Job Simulation Completion                      |
+| HackerRank                        | Python (Basic) and SQL (Basic) Certifications          |
+| TCS ESG Job Simulation            | Completion Certificate                                 |
+
+</div>
+
+---
+
+## Publications
+
+### AI-Powered Smart Student Bus Pass and Scheduling System
+
+Published in:
+
+**Grenze International Journal of Engineering and Technology**
+
+Focused on integrating automation, scheduling intelligence, and student transportation management using AI-driven decision support.
+
+---
+
+## Leadership & Community
+
+### Technical Lead — Student Development Cell
+
+* Developed quiz web applications for student engagement
+* Supported technical operations and digital workflows
+* Integrated third-party APIs for club events
+
+### Design Lead — Photography Club
+
+* Designed promotional materials using Canva
+* Created posters and event branding assets
+* Improved engagement through creative visual communication
 
 ---
 
 ## Currently Learning
 
 ```text
-ArcGIS Pro
-→ Feature Classes
-→ Geodatabases
-→ Topology Rules
-→ Spatial Analysis
+GIS & GeoAI
+ ├── ArcGIS Pro
+ ├── Spatial Analysis
+ ├── Topology & Geodatabases
+ ├── Remote Sensing
+ └── Geospatial Machine Learning
 
-Machine Learning
-→ Time Series Forecasting
-→ Predictive Analytics
-→ Deep Learning
+Artificial Intelligence
+ ├── Time Series Forecasting
+ ├── Computer Vision
+ ├── Vision-Language Models
+ └── Predictive Analytics
 
-Remote Sensing
-→ Raster Analysis
-→ Satellite Imagery
-→ Environmental Monitoring
-
-Geospatial Intelligence
-→ GIS Automation
-→ Cartography
-→ Geoprocessing
+Data Engineering
+ ├── ETL Pipelines
+ ├── Data Warehousing
+ └── Business Intelligence
 ```
 
 ---
 
-## Connect
+## Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a> •
-<a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+
+<a href="https://github.com/thejashree0308">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-E6A4FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  <i>Building the future with Data Science, AI and Geospatial Intelligence.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=120&section=footer"/>
 </p>
