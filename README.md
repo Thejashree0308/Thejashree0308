@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E6A4FF&center=true&vCenter=true&width=900&lines=GIS+Data+Analyst+at+Red+Leaf+Technology;M.Sc+Data+Science+Student;Building+AI+%2B+GIS+Solutions;Time+Series+Forecasting+%7C+Computer+Vision+%7C+Spatial+Analytics"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E6A4FF&center=true&vCenter=true&width=900&lines=GIS+Data+Analyst+at+Red+Leaf+Technologies;M.Sc+Data+Science+Student;Building+AI+%2B+GIS+Solutions;Time+Series+Forecasting+%7C+Computer+Vision+%7C+Spatial+Analytics"/>
 </p>
 
 <p align="center">
@@ -21,8 +21,7 @@ class Thejashree:
 
     def __init__(self):
         self.name = "Thejashree B"
-        self.location = "Tamil Nadu, India"
-        self.role = "GIS Data Analyst @ Red Leaf Technology"
+        self.role = "GIS Data Analyst @ Red Leaf Technologies"
         self.degree = "M.Sc Data Science"
         
         self.stack = [
@@ -135,7 +134,6 @@ class Thejashree:
 
 ---
 
-## Interactive Animation
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="700"/>
@@ -183,22 +181,6 @@ Published in:
 **Grenze International Journal of Engineering and Technology**
 
 Focused on integrating automation, scheduling intelligence, and student transportation management using AI-driven decision support.
-
----
-
-## Leadership & Community
-
-### Technical Lead — Student Development Cell
-
-* Developed quiz web applications for student engagement
-* Supported technical operations and digital workflows
-* Integrated third-party APIs for club events
-
-### Design Lead — Photography Club
-
-* Designed promotional materials using Canva
-* Created posters and event branding assets
-* Improved engagement through creative visual communication
 
 ---
 
