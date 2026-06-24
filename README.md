@@ -98,14 +98,4 @@ Interested in Spatial Intelligence, Machine Learning and GIS Automation
 
 </div>
 
-<br>
 
-<div align="center">
-
-<font color="#C084FC">
-
-Turning Spatial Data Into Intelligent Decisions
-
-</font>
-
-</div>
