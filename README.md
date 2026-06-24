@@ -1,25 +1,3 @@
-<div align="center">
-
-<table>
-<tr>
-<td width="200" align="center">
-
-<img src="https://i.pinimg.com/736x/46/17/63/461763b7777a6d8b3d44e6e1a9e73afa.jpg" 
-     width="150" 
-     style="border-radius:50%;">
-
-</td>
-
-<td align="left">
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="180" align="center">
-<img src="https://i.pinimg.com/736x/46/17/63/461763b7777a6d8b3d44e6e1a9e73afa.jpg" width="150">
-</td>
 
 <td align="center">
 
