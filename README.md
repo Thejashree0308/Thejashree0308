@@ -1,208 +1,222 @@
+# THEJASHREE0308 README.md
+
+````html
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=240&section=header&text=Thejashree%20B&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=GIS%20Data%20Analyst%20%7C%20Data%20Science%20Student%20%7C%20GeoAI%20Explorer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:0B2545&height=240&section=header&text=THEJASHREE%20B&fontSize=54&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=GIS%20Data%20Analyst%20|%20Data%20Science%20Student%20|%20GeoAI%20Explorer&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E6A4FF&center=true&vCenter=true&width=900&lines=GIS+Data+Analyst;M.Sc+Data+Science+Student;Building+AI+%2B+GIS+Solutions;GeoAI+%7C+Machine+Learning+%7C+Spatial+Analytics"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=GIS+Data+Analyst;GeoAI+Explorer;Spatial+Data+Science;Machine+Learning+for+Geospatial+Intelligence;Building+Location+Aware+Solutions"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thejashree0308&label=Profile+Views&color=C084FC&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=thejashree0308&label=Profile+Views&color=00E5FF&style=flat-square"/>
 </p>
 
 ---
 
-# About Me
+## Spatial Profile
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+```yaml
+Name: Thejashree B
 
-```python
-class Thejashree:
+Role: GIS Data Analyst
 
-    def __init__(self):
-        self.name = "Thejashree B"
-        self.role = "GIS Data Analyst"
+Education:
+  Degree: M.Sc Data Science
 
-        self.interests = [
-            "GIS",
-            "GeoAI",
-            "Machine Learning",
-            "Spatial Analytics",
-            "Computer Vision",
-            "Data Visualization"
-        ]
+Focus:
+  - GIS
+  - GeoAI
+  - Machine Learning
+  - Spatial Analytics
+  - Remote Sensing
 
-        self.currently_learning = [
-            "ArcGIS Pro",
-            "Remote Sensing",
-            "Geodatabases",
-            "Deep Learning"
-        ]
+Current Learning:
+  - ArcGIS Pro
+  - Geodatabases
+  - Network Analysis
+  - Deep Learning
 
-    def motto(self):
-        return "Transforming data into meaningful insights."
-```
+Mission:
+  Transforming spatial data into actionable intelligence.
+````
 
 ---
 
-# Tech Stack
+## Tech Arsenal
 
 ### Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-C084FC?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-E879F9?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-D946EF?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Data Science & AI
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-C084FC?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-E879F9?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-A855F7?style=for-the-badge"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode"/>
 </p>
 
 ### GIS & Analytics
 
-<p>
-<img src="https://img.shields.io/badge/ArcGIS%20Pro-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QGIS-C084FC?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-E879F9?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-A855F7?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/ArcGIS%20Pro-001E36?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GeoAI-00E5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Remote%20Sensing-0B6E4F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </p>
 
-### Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Streamlit-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-C084FC?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-E879F9?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-A855F7?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-D946EF?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-# GitHub Analytics
+### Data Science
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=thejashree0308&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=E6A4FF&icon_color=C084FC&text_color=FFFFFF"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejashree0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E6A4FF&text_color=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# GitHub Streak
+## GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=thejashree0308&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=E6A4FF&fire=C084FC&currStreakLabel=E6A4FF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thejashree0308&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF"/>
+
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejashree0308&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=FFFFFF"/>
+
 </p>
 
 ---
 
-# Contribution Activity
+## Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thejashree0308&theme=tokyo-night&bg_color=0d1117&color=E6A4FF&line=C084FC&point=A78BFA&area=true&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=thejashree0308&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
+
 </p>
 
 ---
 
-# Featured Publication
+## Contribution Activity
 
-<div align="center">
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thejashree0308&bg_color=050816&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+## Research Publication
 
 ### AI-Powered Smart Student Bus Pass and Scheduling System
 
 Published in **Grenze International Journal of Engineering and Technology**
 
 <a href="https://thegrenze.com/index.php?display=page&view=journalabstract&absid=6943&id=8">
-Read Publication
+View Publication
 </a>
 
-</div>
-
 ---
 
-# Featured Projects
+## Featured Projects
 
-| Project                          | Stack                                       | Highlights                                                                           |
-| -------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Retail Demand Forecasting System | Python, Streamlit, Prophet, ARIMA, XGBoost  | Automated forecasting, inventory optimization, EOQ, safety stock and model selection |
-| QuickBite Business Dashboard     | Power BI, DAX, Power Query                  | Business analytics dashboard with KPI monitoring and customer insights               |
-| Auto Image Captioning            | FastAPI, PyTorch, Hugging Face Transformers | Vision-language model generating natural language captions from images               |
-
----
-
-# Current Focus
+### Wildfire Evacuation Optimization using GIS and Reinforcement Learning
 
 ```text
-GIS & Spatial Analytics
+Stack
+├── ArcGIS Pro
+├── Remote Sensing
+├── OpenStreetMap
+├── Reinforcement Learning
+└── Spatial Risk Modeling
+```
+
+### Retail Demand Forecasting System
+
+```text
+Stack
+├── Python
+├── Prophet
+├── ARIMA
+├── XGBoost
+└── Streamlit
+```
+
+### QuickBite Analytics Dashboard
+
+```text
+Stack
+├── Power BI
+├── DAX
+├── Power Query
+└── Business Intelligence
+```
+
+---
+
+## Current Focus
+
+```text
+Spatial Intelligence
 ├── ArcGIS Pro
 ├── Geodatabases
-├── Topology
-└── Remote Sensing
+├── Network Analysis
+└── Topology
 
 GeoAI
 ├── Spatial Machine Learning
 ├── Deep Learning
 └── Computer Vision
 
-Data Science
-├── Time Series Forecasting
-├── Predictive Analytics
-└── Business Intelligence
-```
-
----
-
-# Beyond Coding
-
-```text
-Design & Creativity
-├── Graphic Design
-├── Canva
-└── Event Branding
-
 Research
-├── GeoAI
-├── Spatial Intelligence
-└── Data-Driven Decision Making
-
-Leadership
-├── Technical Coordination
-├── Problem Solving
-└── Team Collaboration
+├── Wildfire Analytics
+├── Remote Sensing
+└── Location Intelligence
 ```
 
 ---
 
-# Connect
+## Contribution Snake
 
 <p align="center">
+
+<img src="https://raw.githubusercontent.com/thejashree0308/thejashree0308/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+
 <a href="https://github.com/thejashree0308">
-<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-E879F9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
 
 ---
 
 <p align="center">
-<i>"Transforming data into meaningful insights through GIS, AI and Analytics."</i>
+<i>Mapping data. Discovering patterns. Building intelligent spatial solutions.</i>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:0B2545&height=100&section=footer"/>
 </p>
+```
