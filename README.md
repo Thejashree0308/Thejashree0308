@@ -7,7 +7,7 @@ GIS Data Analyst • GeoAI Explorer • M.Sc Data Science
 <h2 align="center">3D Contribution Graph</h2>
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://raw.githubusercontent.com/Thejashree0308/Thejashree0308/gh-pages/profile-night-rainbow.svg" />
 </p>
 
 <h2 align="center">Contribution Snake</h2>
