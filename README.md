@@ -1,36 +1,40 @@
+# README.md
+
+````md
+<div align="center">
+
 # THEJASHREE B
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000814,50:001D3D,100:003566&text=THEJASHREE%20B&fontColor=00E5FF&fontSize=56&animation=fadeIn&fontAlignY=38&desc=GIS%20Data%20Analyst%20•%20GeoAI%20Explorer%20•%20M.Sc%20Data%20Science&descAlignY=63"/>
-</p>
+### GIS Data Analyst • GeoAI Explorer • M.Sc Data Science
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=GIS+Data+Analyst;GeoAI+Explorer;Spatial+Intelligence;Machine+Learning+for+Geospatial+Systems;ArcGIS+Pro+%7C+QGIS+%7C+Python"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=GIS+Data+Analyst;GeoAI+Explorer;Spatial+Intelligence;ArcGIS+Pro+%7C+QGIS+%7C+Python;Building+Location+Aware+Systems"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Thejashree0308&label=Profile+Views&color=00E5FF&style=flat-square"/>
-</p>
+</div>
 
 ---
 
-## Spatial Profile
+## SYSTEM PROFILE
 
 ```yaml
 name: Thejashree B
 
 education:
-  degree: M.Sc Data Science
+  degree: MSc Data Science
 
-role:
+current_role:
   GIS Data Analyst
 
 specialization:
   - Geographic Information Systems
-  - GeoAI
   - Spatial Analytics
+  - GeoAI
   - Machine Learning
+
+research_focus:
+  - Wildfire Analytics
   - Remote Sensing
+  - Spatial Intelligence
+  - Location Based Systems
 
 currently_learning:
   - ArcGIS Pro
@@ -38,26 +42,23 @@ currently_learning:
   - Topology
   - Network Analysis
 
-research_interests:
-  - Wildfire Analytics
-  - Spatial Intelligence
-  - Location Based Decision Systems
-
 mission:
-  Transforming spatial data into actionable intelligence.
-```
+  Convert geospatial data into actionable intelligence
+````
 
 ---
 
-## Tech Arsenal
+## TECHNOLOGY STACK
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode"/>
-</p>
 
-### GIS & Analytics
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/ArcGIS%20Pro-001E36?style=for-the-badge"/>
 
@@ -65,69 +66,71 @@ mission:
 
 <img src="https://img.shields.io/badge/GeoAI-00E5FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Remote%20Sensing-0B6E4F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Remote%20Sensing-0A9396?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Spatial%20Analytics-003566?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-</p>
-
----
-
-## Achievement Wall
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thejashree0308&theme=algolia&no-frame=true&column=7"/>
-
-</p>
+</div>
 
 ---
 
-## GitHub Dashboard
+## GITHUB METRICS
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thejashree0308&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thejashree0308&show_icons=true&hide_border=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejashree0308&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=FFFFFF"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejashree0308&layout=compact&hide_border=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF"/>
 
-</p>
+</div>
 
 ---
 
-## Contribution Streak
+## CONTRIBUTION STREAK
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Thejashree0308&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
 
-</p>
+</div>
 
 ---
 
-## Contribution Activity
+## ACTIVITY GRAPH
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thejashree0308&bg_color=000814&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## Research Publication
+## TROPHY COLLECTION
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Thejashree0308&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+## RESEARCH PUBLICATION
 
 ### AI-Powered Smart Student Bus Pass and Scheduling System
 
-Published in the **Grenze International Journal of Engineering and Technology**
+Published in:
+
+Grenze International Journal of Engineering and Technology
 
 https://thegrenze.com/index.php?display=page&view=journalabstract&absid=6943&id=8
 
 ---
 
-## Featured Work
+## FEATURED WORK
 
 ### Wildfire Evacuation Optimization using GIS and Reinforcement Learning
 
@@ -135,8 +138,8 @@ https://thegrenze.com/index.php?display=page&view=journalabstract&absid=6943&id=
 ArcGIS Pro
 ├── Fire Risk Mapping
 ├── Spatial Analytics
+├── Road Network Analysis
 ├── OpenStreetMap
-├── Network Analysis
 └── Reinforcement Learning
 ```
 
@@ -144,34 +147,23 @@ ArcGIS Pro
 
 ```text
 Python
-├── Time Series Forecasting
 ├── ARIMA
 ├── Prophet
 ├── XGBoost
 └── Predictive Analytics
 ```
 
-### Therabot
+### Auto Image Captioning
 
 ```text
-Python
-├── Gemini AI
-├── Conversational AI
+Computer Vision
+├── Deep Learning
 ├── NLP
-└── Mental Health Support
+├── Transformers
+└── Caption Generation
 ```
 
-### Auto Captioning System
-
-```text
-Machine Learning
-├── Computer Vision
-├── NLP
-├── Caption Generation
-└── Deep Learning
-```
-
-### QuickBite Sales Analysis Dashboard
+### QuickBite Business Dashboard
 
 ```text
 Power BI
@@ -183,7 +175,7 @@ Power BI
 
 ---
 
-## Current Mission
+## CURRENT MISSION
 
 ```text
 Spatial Intelligence
@@ -206,19 +198,19 @@ Research
 
 ---
 
-## Contribution Snake
+## CONTRIBUTION SNAKE
 
-<p align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Thejashree0308/Thejashree0308/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</div>
 
 ---
 
-## Connect
+## CONNECT
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Thejashree0308">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
@@ -228,21 +220,13 @@ Research
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+> Mapping data. Discovering patterns. Building intelligent spatial solutions.
 
-</p>
-
-<p align="center">
-<i>Mapping data. Discovering patterns. Building intelligent spatial solutions.</i>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000814,50:001D3D,100:003566"/>
-</p>
+</div>
 ```
