@@ -1,12 +1,26 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/46/17/63/461763b7777a6d8b3d44e6e1a9e73afa.jpg" width="180">
+<table>
+<tr>
+<td width="200" align="center">
 
-# Thejashree B
+<img src="https://i.pinimg.com/736x/46/17/63/461763b7777a6d8b3d44e6e1a9e73afa.jpg" 
+     width="150" 
+     style="border-radius:50%;">
 
-### GIS Data Analyst • GeoAI Explorer • M.Sc Data Science
+</td>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Spatial+Intelligence;GeoAI;ArcGIS+Pro;QGIS;Machine+Learning"/>
+<td align="left">
+
+<h1>Thejashree B</h1>
+
+<h3>GIS Data Analyst • GeoAI Explorer • M.Sc Data Science</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=false&vCenter=true&width=700&lines=Spatial+Intelligence;GeoAI;ArcGIS+Pro;QGIS;Machine+Learning"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
