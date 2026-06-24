@@ -1,18 +1,12 @@
-# <div align="center">
+<div align="center">
 
 <img src="https://i.pinimg.com/736x/46/17/63/461763b7777a6d8b3d44e6e1a9e73afa.jpg" width="180">
 
-<h1 align="center">
-<font color="#C084FC">Thejashree B</font>
-</h1>
+# Thejashree B
 
-<h3 align="center">
-<font color="#F9A8D4">
-GIS Data Analyst • GeoAI Explorer • M.Sc Data Science
-</font>
-</h3>
+### GIS Data Analyst • GeoAI Explorer • M.Sc Data Science
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=GIS+Data+Analyst;GeoAI+Explorer;ArcGIS+and+Spatial+Analysis;M.Sc+Data+Science" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Spatial+Intelligence;GeoAI;ArcGIS+Pro;QGIS;Machine+Learning"/>
 
 </div>
 
