@@ -2,4 +2,4 @@
 
 GIS Data Analyst • GeoAI Explorer • M.Sc Data Science
 
-<img src="./metrics.svg" alt="Metrics">
+<img src="https://github.com/Thejashree0308/Thejashree0308/blob/main/metrics.svg?raw=true">
