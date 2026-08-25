@@ -83,9 +83,9 @@ Interested in Spatial Intelligence, Machine Learning and GIS Automation
 
 ## <font color="#C084FC">GitHub Statistics</font>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thejashree0308&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejashree0308&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thejashree0308&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejashree0308&layout=compact&theme=tokyonight" height="170" />
+</p>
 
 </div>
 
